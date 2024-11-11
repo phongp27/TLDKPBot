@@ -26,4 +26,8 @@ This is a simple Discord bot designed for the game Throne and Liberty but can be
 }
 ```
 
+# How to run
+```
+node . // this will just run the index file
+```
 Have fun using it!
