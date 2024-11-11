@@ -10,9 +10,10 @@ This is a simple Discord bot designed for the game Throne and Liberty but can be
 - Customizable: Easily extendable to include more features or adapt to other games and can be adapted to 
 
 ## Commands
+```
 /addpoint @discorduser - This command retrieves the users' nicknames or current Discord global names and appends them to the JSON file. You can add multiple names separated by spaces or commas. Note that you must use their @tags; otherwise, the command will not work. This requirement prevents redundant keys caused by case sensitivity.
 /currentlist - this prints out a list to your discord server
-
+```
 
 # Requirements
 - Use node v18 or higher
